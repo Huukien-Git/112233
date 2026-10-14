@@ -1,0 +1,23 @@
+# AutoCAD Temporary and Backup Files
+*.bak
+*.bk1
+*.bk2
+*.dwl
+*.dwl2
+*.dwt
+*.ac$
+*.sv$
+*.log
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Editor / IDE settings
+.vscode/
+.idea/
+*.swp
+*~
